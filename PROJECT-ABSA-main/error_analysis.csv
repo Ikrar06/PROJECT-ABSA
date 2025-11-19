@@ -1,0 +1,72 @@
+entity,sentence,true_label,pred_label,confidence
+PSU banks,"Near-term trajectory of PSU banks shaky, but buy stocks on dips: Parag Thakkar",positive,negative,0.9878197
+Mirza International,Mirza International has been sideways: Deepak Mohoni,neutral,negative,0.9857013
+OMCs,OMCs pullback on hopes of no fuel price cut in near term,positive,negative,0.9822973
+Grasim,VSF halved Grasim fortunes compared to Ultratech,neutral,negative,0.98128027
+Diamond,Diamond sales in domestic market remains flat despite regulatory measures,negative,neutral,0.9766207
+Nifty,Continue to buy till Nifty breaks 8090-8100 levels: Mitesh Thacker,neutral,positive,0.97543913
+Ramsarup,Upside capped at 90 for Ramsarup: Siddth Capital,neutral,positive,0.9686849
+food,Panel to monitor food futures,negative,neutral,0.9672027
+HFC,HFCs offer great value even at prevailing levels; prefer Repco Home: Vinay Khattar,neutral,positive,0.9657986
+SBI,SBI's Bhushan Steel bail out plan may face hurdles as lenders turn unsupportive,negative,neutral,0.9657656
+Market,Market downside capped likely at 7550 levels,neutral,negative,0.96527106
+Specialty chemicals,Specialty chemicals give tyre maker SRF a power spin,neutral,positive,0.9640074
+IT stocks,"Consider IT stocks as a global play, to make portfolio look balanced: Ajay Bagga",neutral,positive,0.9640022
+Enginners India,"Enginners India pretty flat, correction required in ITC: www.aptartindia.com",negative,neutral,0.9632165
+Saatchi & Saatchi,"Saatchi & Saatchi adds creative muscle with new appointments, Elevates Mithun Mirji to Singapore for a newly created role",positive,neutral,0.963037
+oil,Upbeat China PMI boosts Asian stocks; oil firm on Iraq,neutral,positive,0.96301776
+Hindalco Industries,Bullion stocks to pick: Hindustan Zinc & Hindalco Industries,positive,neutral,0.9629942
+Sun Pharma,"Opposite movement of Infosys, Sun Pharma stocks to surprise tech, pharma fund investors",neutral,positive,0.96223
+Reed Exhibitions,Reed Exhibitions looks to expand in India,neutral,positive,0.96158797
+Hindustan Zinc,Bullion stocks to pick: Hindustan Zinc & Hindalco Industries,positive,neutral,0.9607449
+oil and gas space,Exposure increased to oil and gas space; look at energy sector more favourably: David Pezarkar,negative,positive,0.96065426
+L&T,ABG Shipyard ends 13.3% higher on buzz L&T plans to buy stake in firm,positive,neutral,0.9576476
+IOT Infrastructure & Energy Services,IOT Infrastructure & Energy Services raises Rs 3000 crore from domestic investors,neutral,positive,0.9562698
+IT companies,Moderate earnings expected for IT companies in Q3: Analysts,neutral,negative,0.95298624
+Nalco,"Nalco issues bonus shares, opting stock-split",positive,neutral,0.9519044
+Nifty,Pre-market: Nifty seen opening lower; inflation data eyed,neutral,negative,0.95096344
+ITC,"Enginners India pretty flat, correction required in ITC: www.aptartindia.com",negative,neutral,0.9505578
+Nifty,5850-5860 should be a good support level for Nifty: Ashwani Gujral,neutral,positive,0.94898283
+Page Inds,"Kitex Garments another Page Inds in making, can be a multibagger in 5 years: Vikas Sethi, Finmart",neutral,positive,0.94758487
+gold,"MMTC-PAMP gold, silver coins stock sold out on Dhanteras",positive,negative,0.9453954
+Geojit,Geojit posts Rs 20 crore profit in Q2,neutral,positive,0.94459754
+silver,"MMTC-PAMP gold, silver coins stock sold out on Dhanteras",positive,negative,0.94417745
+PSU banking stocks,Two reasons why PSU banking stocks have turned around in terms of performance,neutral,positive,0.9423924
+GSFC,GSFC signaled breakout above Rs 318:IIFL,positive,neutral,0.941375
+Sahara,"4,600 Sahara investors claim refund from Sebi",negative,neutral,0.93832165
+Tree Line Asia Master,Singapore-based hedge fund Tree Line Asia Master Fund sells VA Tech Wabag shares worth Rs 20 crore,positive,neutral,0.9370885
+SPARC,"Risk-averse investors should prefer Sun Pharma over SPARC: Daljeet Singh Kohli, IndiaNivesh Ltd",neutral,negative,0.93649226
+Saradha Group,Enforcement Directorate attaches Saradha Group assets,negative,neutral,0.93550605
+rupee,"Like in 2009, will rupee shoot up 300 paise post May 16 verdict?",neutral,positive,0.9350586
+Asian shares,Asian shares flat as investors digest Greek deal,negative,neutral,0.9305835
+Repco,"With unique business model, Repco to benefit from economic recovery",neutral,positive,0.9268355
+Sensex,"Global cues making Sensex move, and FIIs getting bearish: A worry?",negative,neutral,0.9251663
+Gujarat Pipavav,Further FII investment in Gujarat Pipavav after approval: RBI,positive,neutral,0.9239365
+Nifty,"Sensex ends above 26,000-mark; Nifty closes at 7,767.85",positive,neutral,0.9237488
+Infosys,Why long-term investors should believe in Infosys CEO Vishal Sikka,neutral,positive,0.9228237
+Infosys,"Opposite movement of Infosys, Sun Pharma stocks to surprise tech, pharma fund investors",neutral,positive,0.90956825
+HUL,Hero MotoCorp replaces HUL as JPMorgan top stock to avoid,positive,negative,0.9068689
+Tea,Tea prices stay firm on robust demand,neutral,positive,0.9026761
+Raw material,Raw material bull market fades as supply expands,neutral,negative,0.9008475
+Oberoi Realty,Oberoi Realty Q4 net up by 30.16% at Rs 136.7 crore; stock down,positive,negative,0.8943725
+South Korean stocks,South Korean stocks end up; won firmer on exporter demand,negative,positive,0.8878753
+IDFC Mutual Fund,Kenneth Andrade exits IDFC Mutual Fund leaving investors jittery,neutral,negative,0.8823769
+VA Tech Wabag,Singapore-based hedge fund Tree Line Asia Master Fund sells VA Tech Wabag shares worth Rs 20 crore,neutral,negative,0.8750666
+HNI,HNI's interest in markets leads to rise in midcap stocks: David Pezarkar,neutral,positive,0.86585057
+Hindalco,"Hindalco: Rising input costs a worry, but buoyant demand may help",neutral,negative,0.8369257
+SMILE Microfinance,"ICRA places SMILE Microfinance on ratings watch, cites management control dispute",negative,positive,0.81308234
+Bayer CropScience,Bayer CropScience plans Rs 455 crore share buyback offer,neutral,positive,0.8107759
+ONGC,Contra Call: Not all analysts have ONGC on their buy list,negative,neutral,0.78352123
+Swiss exchanges,"Siemens to delist from London, Swiss exchanges",neutral,negative,0.69117916
+PineBridge MF,Kotak AMC acquires domestic schemes of PineBridge MF,neutral,positive,0.6458064
+Bhushan Steel,SBI's Bhushan Steel bail out plan may face hurdles as lenders turn unsupportive,negative,neutral,0.62467027
+Jaypee Sports International,Jaypee Sports International merger with Jaiprakash Associates gets NSE nod,positive,neutral,0.62310606
+London,"Siemens to delist from London, Swiss exchanges",neutral,negative,0.61204284
+metals,"Nifty, Sensex turn choppy; metals lead the decline",neutral,positive,0.6067543
+Mideast crude market,Mideast crude market rides out Iraq conflict for now,neutral,positive,0.60510045
+DLF,"Securities Appellate Tribunal allows DLF to redeem Rs 1,806 crore in mutual funds",neutral,positive,0.60209054
+MM Auto Industries,MM Auto Industries withdraws IPO application,neutral,negative,0.5741931
+NSEL,NIF may turn co-plaintiff in Modern India suit against NSEL,negative,neutral,0.5530964
+tech,"Opposite movement of Infosys, Sun Pharma stocks to surprise tech, pharma fund investors",neutral,positive,0.52819407
+sugar sector,"To help sugar sector, talk of mixing ethanol with petrol",neutral,negative,0.5055685
+nickel,"Copper, nickel rise on global cues",positive,negative,0.5005989

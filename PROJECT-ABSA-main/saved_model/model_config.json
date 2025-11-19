@@ -1,0 +1,29 @@
+{
+  "model_name": "RoBERTa-ABSA-SEntFiN",
+  "base_model": "roberta-base",
+  "num_labels": 3,
+  "dropout_rate": 0.3,
+  "max_length": 40,
+  "label2id": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "id2label": {
+    "0": "negative",
+    "1": "neutral",
+    "2": "positive"
+  },
+  "training_config": {
+    "learning_rate": 2e-05,
+    "batch_size": 128,
+    "epochs_trained": 11,
+    "best_epoch": 6,
+    "best_val_f1": 0.9019
+  },
+  "test_performance": {
+    "accuracy": 0.9755,
+    "f1_macro": 0.9757,
+    "test_date": "2025-11-13"
+  }
+}
